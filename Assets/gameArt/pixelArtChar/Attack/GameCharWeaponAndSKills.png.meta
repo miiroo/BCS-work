@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: d6260cbae6f46d2489ef1b109acd3024
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 633518410114080443
+    second: GameCharWeaponAndSKills_0
+  - first:
+      213: 2697727065986781127
+    second: GameCharWeaponAndSKills_1
+  - first:
+      213: -2260753988492716884
+    second: GameCharWeaponAndSKills_2
+  - first:
+      213: -1276993642013485715
+    second: GameCharWeaponAndSKills_3
+  - first:
+      213: 108326741767975272
+    second: GameCharWeaponAndSKills_4
+  - first:
+      213: 8534721931770971394
+    second: GameCharWeaponAndSKills_5
+  - first:
+      213: -5570775164814961472
+    second: GameCharWeaponAndSKills_6
+  - first:
+      213: 3749150555158616494
+    second: GameCharWeaponAndSKills_7
+  - first:
+      213: -4947944257849736180
+    second: GameCharWeaponAndSKills_8
+  - first:
+      213: -4530205499509491213
+    second: GameCharWeaponAndSKills_9
+  - first:
+      213: -1462074836257419125
+    second: GameCharWeaponAndSKills_10
+  - first:
+      213: -1666833282593219152
+    second: GameCharWeaponAndSKills_11
+  - first:
+      213: 4206747252847188024
+    second: GameCharWeaponAndSKills_12
+  - first:
+      213: 4439725946755743890
+    second: GameCharWeaponAndSKills_13
+  - first:
+      213: -3169615726370510029
+    second: GameCharWeaponAndSKills_14
+  - first:
+      213: 121480532300756943
+    second: GameCharWeaponAndSKills_15
+  - first:
+      213: 6910237538022983510
+    second: GameCharWeaponAndSKills_16
+  - first:
+      213: -6345413667944332792
+    second: GameCharWeaponAndSKills_17
+  - first:
+      213: 5301625793040748192
+    second: GameCharWeaponAndSKills_18
+  - first:
+      213: 4624826243510168503
+    second: GameCharWeaponAndSKills_19
+  - first:
+      213: 4662047379521726723
+    second: GameCharWeaponAndSKills_20
+  - first:
+      213: -3909070384355091240
+    second: GameCharWeaponAndSKills_21
+  - first:
+      213: 6145031841844939716
+    second: GameCharWeaponAndSKills_22
+  - first:
+      213: 3225114849415718448
+    second: GameCharWeaponAndSKills_23
+  - first:
+      213: 7079449674287183360
+    second: GameCharWeaponAndSKills_24
+  - first:
+      213: 3683727512212383382
+    second: GameCharWeaponAndSKills_25
+  - first:
+      213: -350414009283948288
+    second: GameCharWeaponAndSKills_26
+  - first:
+      213: 2839040867435346105
+    second: GameCharWeaponAndSKills_27
+  - first:
+      213: 3712842046564217077
+    second: GameCharWeaponAndSKills_28
+  - first:
+      213: 1349878132475045443
+    second: GameCharWeaponAndSKills_29
+  - first:
+      213: -6924669208675129383
+    second: GameCharWeaponAndSKills_30
+  - first:
+      213: 3815576120146037722
+    second: GameCharWeaponAndSKills_31
+  - first:
+      213: -752229899367663775
+    second: GameCharWeaponAndSKills_32
+  - first:
+      213: 7670565216643927791
+    second: GameCharWeaponAndSKills_33
+  - first:
+      213: 4648421730975098572
+    second: GameCharWeaponAndSKills_34
+  - first:
+      213: 944457843148734003
+    second: GameCharWeaponAndSKills_35
+  - first:
+      213: -2896612153616874700
+    second: GameCharWeaponAndSKills_36
+  - first:
+      213: -8624352344109610896
+    second: GameCharWeaponAndSKills_37
+  - first:
+      213: -3420165086979597158
+    second: GameCharWeaponAndSKills_38
+  - first:
+      213: -6623662484701675040
+    second: GameCharWeaponAndSKills_39
+  - first:
+      213: 6682070218002403798
+    second: GameCharWeaponAndSKills_40
+  - first:
+      213: 6817392463220689118
+    second: GameCharWeaponAndSKills_41
+  - first:
+      213: 8571633534395903686
+    second: GameCharWeaponAndSKills_42
+  - first:
+      213: 5799352910078315978
+    second: GameCharWeaponAndSKills_43
+  - first:
+      213: 8394396528845945599
+    second: GameCharWeaponAndSKills_44
+  - first:
+      213: -5053761679537140926
+    second: GameCharWeaponAndSKills_45
+  - first:
+      213: -7871922471285087461
+    second: GameCharWeaponAndSKills_46
+  - first:
+      213: 8442284782968652171
+    second: GameCharWeaponAndSKills_47
+  - first:
+      213: -3900499746446392885
+    second: GameCharWeaponAndSKills_48
+  - first:
+      213: -686340342023458710
+    second: GameCharWeaponAndSKills_49
+  - first:
+      213: 6046095581212734436
+    second: GameCharWeaponAndSKills_50
+  - first:
+      213: 9084973317956403863
+    second: GameCharWeaponAndSKills_51
+  - first:
+      213: -1048473018808061559
+    second: GameCharWeaponAndSKills_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_0
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 3267
+        width: 78
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe158133a5bac800800000000000000
+      internalID: 633518410114080443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_1
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3267
+        width: 158
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf491d2970407520800000000000000
+      internalID: 2697727065986781127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_2
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 3257
+        width: 58
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41857b93030a0e0800000000000000
+      internalID: -2260753988492716884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_3
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 3245
+        width: 148
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659a536c05374ee0800000000000000
+      internalID: -1276993642013485715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_4
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 3196
+        width: 100
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86171c2099ad08100800000000000000
+      internalID: 108326741767975272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_6
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 3081
+        width: 332
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d2a9b081a0b2b0800000000000000
+      internalID: -5570775164814961472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_7
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 2105
+        width: 880
+        height: 1440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea910b9e098a70430800000000000000
+      internalID: 3749150555158616494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_8
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 3325
+        width: 158
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ce6ea9ee555bb0800000000000000
+      internalID: -4947944257849736180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_10
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 3095
+        width: 488
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d6ddceaaa5bbe0800000000000000
+      internalID: -1462074836257419125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_11
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2916
+        width: 100
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd9b33f5f73ed8e0800000000000000
+      internalID: -1666833282593219152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_12
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2915
+        width: 101
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389ec1965e516a30800000000000000
+      internalID: 4206747252847188024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2565
+        width: 870
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ba13b4a434304d0800000000000000
+      internalID: -3169615726370510029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_15
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 2937
+        width: 181
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc779e686e59fa100800000000000000
+      internalID: 121480532300756943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_18
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 2937
+        width: 179
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0e3ec198239940800000000000000
+      internalID: 5301625793040748192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_22
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 2736
+        width: 566
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbc1a207e9874550800000000000000
+      internalID: 6145031841844939716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_27
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2685
+        width: 1019
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8fc4680ac466720800000000000000
+      internalID: 2839040867435346105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_28
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 2605
+        width: 254
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0389c7b2aa68330800000000000000
+      internalID: 3712842046564217077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_29
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 2597
+        width: 299
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3462e30720bbbb210800000000000000
+      internalID: 1349878132475045443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2047
+        width: 870
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc62af89fe2828040800000000000000
+      internalID: 4648421730975098572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_35
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 2245
+        width: 259
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e363687636b1d00800000000000000
+      internalID: 944457843148734003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_36
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1345
+        width: 748
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433469bd79a2dc7d0800000000000000
+      internalID: -2896612153616874700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_37
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1325
+        width: 747
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0780a8f9c35205880800000000000000
+      internalID: -8624352344109610896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_38
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 1937
+        width: 230
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c536569f12980d0800000000000000
+      internalID: -3420165086979597158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1626
+        width: 1149
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1864750160414a0800000000000000
+      internalID: -6623662484701675040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_40
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 1665
+        width: 518
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1104cc57b7bbc50800000000000000
+      internalID: 6682070218002403798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_41
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 1147
+        width: 429
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c1b0435e3c9e50800000000000000
+      internalID: 6817392463220689118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1325
+        width: 1039
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce6e7af84f84f670800000000000000
+      internalID: 8571633534395903686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 665
+        width: 508
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8854deb07b7050800000000000000
+      internalID: 5799352910078315978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_44
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 665
+        width: 330
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa72a5ea23ee7470800000000000000
+      internalID: 8394396528845945599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_46
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 665
+        width: 178
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1323a7383051c290800000000000000
+      internalID: -7871922471285087461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_48
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 655
+        width: 534
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1cf867524aed9c0800000000000000
+      internalID: -3900499746446392885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCharWeaponAndSKills_49
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 480
+        width: 660
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60fba66811a976f0800000000000000
+      internalID: -686340342023458710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
